@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background-color: pink;
+}
+
+#pic{
+  height: 10;
+  width: 10;
+}
+
+#h{
+  font-size: 100px;
+  color: blue;
+}
+
+
+#h1{
+  font-size: 70px;
+  color: green;
+}
+
+#h4{
+  font-size: 60px;
+  color: darkblue;
+}
+
+#h5{
+  font-size: 40px;
+  font-style: italic;
+  color: red;
+}
